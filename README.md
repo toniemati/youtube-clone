@@ -1,6 +1,6 @@
 # youtube-clone todo list
 
 * [x] cleanup project
-* [ ] header
+* [x] header
 * [ ] sidebar
 * [ ] video section
