@@ -2,5 +2,6 @@
 
 * [x] cleanup project
 * [x] header
-* [ ] sidebar
-* [ ] video section
+* [x] sidebar
+* [x] videos section
+* [x] search page

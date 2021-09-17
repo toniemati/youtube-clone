@@ -2,8 +2,6 @@ import { Avatar } from '@material-ui/core';
 import './VideoCard.css';
 
 const VideoCard = ({ video }) => {
-  console.log(video);
-
   return (
     <div className="videoCard">
       <img className="videoCard__thumbnail" src={video.image} alt="video thumbnail" />
